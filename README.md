@@ -1,6 +1,6 @@
 # Infrastructure Automated Using AWS And Terraform
 
-![img-1](Untitled Diagram [MConverter.eu].jpg)
+![img-1](Diagram.jpg)
 - Create a VPC and subnets
 - Create an internet gateway and route table to make the subnet public
 - Create security groups
